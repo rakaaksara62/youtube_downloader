@@ -17,11 +17,14 @@ A simple Streamlit web app to download YouTube videos or extract audio as MP3.
 ```bash
 git clone https://github.com/yourusername/youtube_downloader.git
 cd youtube_downloader
+```
 
 2. Install the dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 3. Run the Streamlit app:
 ```bash
 streamlit run app.py
+```
